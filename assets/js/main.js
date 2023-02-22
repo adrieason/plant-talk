@@ -60,7 +60,7 @@
 
 					// Images (in the format of 'url': 'alignment').
 						images: {
-							'images/slides/IMG_0447.mov': '0% 35%',
+							'images/slides/Rob_Intro.gif': '0% 35%',
 							//'images/slides/slide02.jpeg': 'center',
 							//'images/slides/slide03.jpeg': 'center',
 							//'images/slides/slide04.jpeg': 'center'
